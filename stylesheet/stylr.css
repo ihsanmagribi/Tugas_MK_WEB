@@ -23,11 +23,11 @@ li{
 }
 
 .copy-container h1{
-    font-size: 100px;
+    font-size: 70px;
 }
 
 .copy-container h2{
-    font-size: 60px;
+    font-size: 40px;
 }
 
 .copy-container{
@@ -35,6 +35,47 @@ li{
 }
 .copy-container span{
     color: #d05926;
+}
+.contents {
+    height: 500px;
+    margin-top: 100px;
+}
+.section-title {
+    font-size: 28px;
+    border-bottom: 2px solid #dee7ed;
+    padding-bottom: 15px;
+    margin-bottom: 50px;
+}
+.contents-item {
+    float: left;
+    margin-right: 40px;
+}
+.contents-item p{
+    font-size: 24px;
+    margin-top: 30px;
+}
+.contact-form{
+    padding-top: 100px;
+}
+.contact-form input {
+    width: 400px;
+    margin: top 10px;
+    margin-bottom: 30px;
+    padding: 20px;
+    font-size: 18px;
+    border: 1px solid #dee7ed;
+}
+.contact-form textarea {
+    width: 400px;
+    margin: top 10px;
+    margin-bottom: 30px;
+    padding: 20px;
+    font-size: 18px;
+    border: 1px solid #dee7ed;
+}
+.contact-form submit {
+    background: #dee7ed;
+    color: #26d0c9;
 }
 
 .footer{
